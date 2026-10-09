@@ -1,0 +1,16 @@
+streamlit==1.57.0
+pandas
+plotly
+python-dotenv
+groq
+
+psycopg2-binary
+
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+requests
+oauthlib
+requests-oauthlib

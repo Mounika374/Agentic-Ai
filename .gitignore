@@ -1,0 +1,67 @@
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+token_1.pickle
+venv/
+venv311/
+.venv/
+
+# =========================
+# 🌍 Environment variables
+# =========================
+.env
+
+# =========================
+# 🔐 Google / Auth secrets
+# =========================
+client_secret*.json
+credentials.json
+token.json
+token.pkl
+token.pickle
+oauth_state.json
+user_session.pkl
+verifier.txt
+
+# =========================
+# 🗄️ Databases
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# 📊 Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# 🖥️ OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# 🎧 Media / Temp files
+# =========================
+*.wav
+*.mp3
+*.mp4
+*.webm
+temp_*
+
+# =========================
+# 📦 Node (if ever used)
+# =========================
+node_modules/
+
+# =========================
+# 🧪 Logs
+# =========================
+*.log
